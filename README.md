@@ -10,7 +10,7 @@ Para a construção de um banco de dados eficiente e organizado, é importante f
 ## 2 - Modelo Conceitual
 Na ferramenta brModelo, faremos o modelo conceitual para aprimorar o DER, utilizando uma linguagem de alto nível para descrever visualmente as entidades fortes e fracas, atributos, chaves primárias/identificadores, associações relativas, especializações, valores atômicos ou multivalorados e a relação entre eles..
 
-![image](https://user-images.githubusercontent.com/88864793/230785382-f14b5053-6f54-4e82-ba2f-9e8569310a5c.png)
+![image](https://user-images.githubusercontent.com/88864793/230978173-d3f800a0-878b-4718-abeb-6d71d7dfc368.png)
 
 ## 3 - Modelo Lógico
 Os modelos lógicos se preocupam com os tipos, atributos e relacionamentos das entidades (as informações em si) que habitarão o sistema.
