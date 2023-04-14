@@ -13,10 +13,10 @@ Na ferramenta brModelo, faremos o modelo conceitual para aprimorar o DER, utiliz
 ![Captura de tela 2023-04-14 191248](https://user-images.githubusercontent.com/88864793/232163048-297f724d-2555-482a-a550-9f1e6492bc59.png)
 
 
-## 3 - Modelo Lógico
+## 3 - Modelo Lógico + Normalização de Dados
 Os modelos lógicos se preocupam com os tipos, atributos e relacionamentos das entidades (as informações em si) que habitarão o sistema.
 
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+![Captura de tela 2023-04-14 191443](https://user-images.githubusercontent.com/88864793/232163306-c19908f2-293b-4a52-aa4c-3bd8fa8e3d5b.png)
 
 
 ## 4 - Modelo Físico
