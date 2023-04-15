@@ -37,5 +37,5 @@ Representa o 4º estágio da modelação, onde o modelo físico enriquece modelo
 
 
 # Autor
-
+Erick Fernandes → https://www.linkedin.com/in/erickfernanddes/
 
