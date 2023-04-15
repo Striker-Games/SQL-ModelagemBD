@@ -17,7 +17,8 @@ Na ferramenta brModelo, faremos o modelo conceitual para aprimorar o DER, utiliz
 ## 3 - Modelo Lógico + Normalização de Dados
 Os modelos lógicos se preocupam com os tipos, atributos e relacionamentos das entidades (as informações em si) que habitarão o sistema.
 
-![Captura de tela 2023-04-15 145810](https://user-images.githubusercontent.com/88864793/232245446-02e15a5e-6245-4151-ab2a-1edea80e7148.png)
+![Captura de tela 2023-04-15 161806](https://user-images.githubusercontent.com/88864793/232249100-2900049b-0dbf-41f2-8ebd-4ad48ac330b3.png)
+
 
 
 
