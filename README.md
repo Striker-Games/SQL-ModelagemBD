@@ -28,7 +28,8 @@ Os modelos lógicos se preocupam com os tipos, atributos e relacionamentos das e
 ## 4 - Modelo Físico
 Representa o 4º estágio da modelação, onde o modelo físico enriquece modelo lógico com detalhes que são extremamente importantes para a implementação, como por exemplo, o tipo de dado, o numero de caracteres suportados, se aceita valores nulos ou não, etc. 
 
-![Captura de tela 2023-04-15 163104](https://user-images.githubusercontent.com/88864793/232249752-b0f45f3e-7982-49c4-935d-5ec04bdbfedc.png)
+![image](https://user-images.githubusercontent.com/88864793/233193158-11c93a39-9b4c-46db-8dda-3a1ec79cee79.png)
+
 
 
 
