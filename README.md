@@ -10,7 +10,7 @@ Para a construção de um banco de dados eficiente e organizado, é importante f
 ## 2 - Modelo Conceitual
 Na ferramenta brModelo, faremos o modelo conceitual para aprimorar o DER, utilizando uma linguagem de alto nível para descrever visualmente as entidades fortes e fracas, atributos, chaves primárias/identificadores, associações relativas, especializações, valores atômicos ou multivalorados e a relação entre eles..
 
-![Captura de tela 2023-04-19 173304](https://user-images.githubusercontent.com/88864793/233192535-c6dfba45-824d-4ff2-8c29-cb43da58ac61.png)
+![Captura de tela 2023-04-19 173509](https://user-images.githubusercontent.com/88864793/233192938-2ca90c07-44dd-44ec-9d09-7b4be85e3012.png)
 
 
 
